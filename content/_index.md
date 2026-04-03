@@ -12,18 +12,3 @@ Seine wahre Seele aber liegt im historischen Ortskern: Fachwerkhäuser aus dem 1
 Doch dieser Schatz ist gefährdet: Viele historische Gebäude sind sanierungsbedürftig, manche sind bereits verloren gegangen. Damit Beuren seinen unverwechselbaren Charakter behält, setzt sich der Verein **Historisches Beuren e. V.** mit Herzblut für den Erhalt und die behutsame Weiterentwicklung dieses besonderen Ortes ein.  
 [→ mehr über den Verein erfahren](/verein/)
 
----
-
-## Termine
-
-Aktuelles aus Beuren: Hier entdecken Sie kommende Veranstaltungen und spannende Rückblicke auf bereits Erlebtes.  
-[→ zu den Terminen](/veranstaltungen/)
-
----
-
-## Mitmachen
-
-Beuren lebt von seinem einzigartigen historischen Ortsbild – und von Menschen, die sich dafür einsetzen.
-
-Ob als Mitglied oder mit einer Spende: Jeder Beitrag zählt.  
-[→ jetzt mitmachen](/mitmachen/)
