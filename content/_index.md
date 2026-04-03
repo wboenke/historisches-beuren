@@ -24,6 +24,5 @@ Aktuelles aus Beuren: Hier entdecken Sie kommende Veranstaltungen und spannende 
 ## Mitmachen
 
 Beuren lebt von seinem einzigartigen historischen Ortsbild – und von Menschen, die sich dafür einsetzen.
-
 Ob als Mitglied oder mit einer Spende: Jeder Beitrag zählt.  
 [→ jetzt mitmachen](/mitmachen/)
