@@ -1,0 +1,90 @@
+{{ define "main" }}
+<main class="main list" role="main">
+  <article class="post">
+
+    <!-- HERO -->
+    <div style="
+      position:relative;
+      min-height:460px;
+      border-radius:12px;
+      overflow:hidden;
+      margin-bottom:2rem;
+      background:#333 url('/images/hero-beuren.jpg') center center / cover no-repeat;
+    ">
+      
+      <div style="
+        position:absolute;
+        inset:0;
+        display:flex;
+        flex-direction:column;
+        justify-content:space-between;
+        padding:8rem 1.5rem 1.5rem 1rem;
+        background:linear-gradient(to top, rgba(0,0,0,0.72), rgba(0,0,0,0.18));
+      ">
+
+        <!-- Text oben -->
+        <div style="margin-left:3rem; margin-top:2rem; max-width:42rem;">
+          <h1 style="
+            margin:0 0 .75rem 0;
+            color:#fff;
+            font-size:2.2rem;
+            line-height:1.2;
+          ">
+            VHB – Verein Historisches Beuren
+          </h1>
+
+          <p style="
+            margin:0;
+            color:#fff;
+            font-size:1.15rem;
+          ">
+            Geschichte bewahren. Ortsbild erhalten. Zukunft gestalten.
+          </p>
+        </div>
+
+        <!-- Buttons unten rechts -->
+        <div style="text-align:right; padding-right:1rem;">
+          
+          <a href="/veranstaltungen/" style="
+            display:inline-block;
+            margin:0 0.75rem 0.75rem 0;
+            padding:.95rem 1.3rem;
+            background:#2c3e50;
+            color:#fff;
+            text-decoration:none;
+            border-radius:12px;
+            font-weight:700;
+            border:1px solid rgba(255,255,255,0.25);
+            box-shadow:0 6px 18px rgba(0,0,0,0.25);
+          ">
+            Termine ansehen
+          </a>
+
+          <a href="/mitmachen/" style="
+            display:inline-block;
+            margin:0 0 0.75rem 0;
+            padding:.95rem 1.3rem;
+            background:#b03a2e;
+            color:#fff;
+            text-decoration:none;
+            border-radius:12px;
+            font-weight:700;
+            border:1px solid rgba(255,255,255,0.25);
+            box-shadow:0 6px 18px rgba(0,0,0,0.3);
+          ">
+            Mitmachen
+          </a>
+
+        </div>
+
+      </div>
+    </div>
+
+    <!-- NORMALER INHALT -->
+    <div class="content post__content clearfix">
+      {{ .Content }}
+    </div>
+
+  </article>
+</main>
+{{ end }}

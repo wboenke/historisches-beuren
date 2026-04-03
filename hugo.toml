@@ -1,0 +1,44 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'de-de'
+title = 'VHB - Verein Historisches Beuren'
+theme = 'mainroad'
+
+[Params]
+  description = "Geschichte bewahren. Ortsbild erhalten.Zukunft gestalten."
+
+[menu]
+
+  [[menu.main]]
+    identifier = "start"
+    name = "Start"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "verein"
+    name = "Verein"
+    url = "/verein/"
+    weight = 2
+
+ [[menu.main]]
+    identifier = "projekt"
+    name = "Projekt"
+    url = "/projekt/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "veranstaltungen"
+    name = "Termine"
+    url = "/veranstaltungen/"
+    weight = 4
+
+   [[menu.main]]
+    identifier = "mitmachen"
+    name = "Mitmachen"
+    url = "/mitmachen/"
+    weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
