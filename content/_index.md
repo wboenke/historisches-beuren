@@ -14,21 +14,6 @@ Doch dieser Schatz ist gefährdet: Viele historische Gebäude sind sanierungsbed
 
 ---
 
-<h2>Unser Projekt: „Der Trafoturm Beuren – ein historischer Ort mit Zukunft“</h2>
-
-<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin:1rem 0 2rem 0;">
-  <div style="flex:0 0 220px;">
-    <img src="https://wboenke.github.io/historisches-beuren/images/trafo-west.jpg" alt="Trafoturm Beuren" style="width:100%; border-radius:10px;">
-  </div>
-  <div style="flex:2 1 400px; min-width:280px;">
-    <p>In Beuren steht ein markanter, über hundert Jahre alter Trafoturm, der ein bedeutendes Zeugnis regionaler Technik- und Energiegeschichte darstellt.</p>
-    <p>Unser Projekt <strong>„Der Trafoturm Beuren – ein historischer Ort mit Zukunft“</strong> entwickelt eine nachhaltige Nutzung, die Artenschutz, Baukultur und Bildung miteinander verbindet.</p>
-    <p>Unser Ziel ist es, den Trafoturm dauerhaft zu erhalten, ökologisch aufzuwerten und als öffentlich zugänglichen Lern- und Erlebnisort zu etablieren. <a href="/projekt/">→ mehr zum Projekt erfahren</a></p>
-  </div>
-</div>
-
----
-
 ## Termine
 
 Aktuelles aus Beuren: Hier entdecken Sie kommende Veranstaltungen und spannende Rückblicke auf bereits Erlebtes.  
