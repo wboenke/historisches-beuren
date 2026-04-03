@@ -1,7 +1,7 @@
-baseURL = 'http://localhost:1313/'
-languageCode = 'de-de'
-title = 'VHB - Verein Historisches Beuren'
-theme = 'mainroad'
+baseURL = "https://wboenke.github.io/historisches-beuren/"
+languageCode = "de-de"
+title = "Historisches Beuren"
+theme = "mainroad"
 
 [Params]
   description = "Geschichte bewahren. Ortsbild erhalten.Zukunft gestalten."
