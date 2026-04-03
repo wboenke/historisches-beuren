@@ -1,0 +1,154 @@
+.hero {
+  position: relative;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  border-radius: 12px;
+  min-height: 420px;
+  background: #333;
+}
+
+.hero img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  display: block;
+}
+
+.hero__overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 2rem 1.5rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.18));
+  color: #fff;
+}
+
+.hero__overlay h1,
+.hero__overlay p {
+  color: #fff;
+  margin: 0 0 0.75rem 0;
+  max-width: 42rem;
+}
+
+.hero__overlay h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+.hero__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.hero__button {
+  display: inline-block;
+  padding: 0.8rem 1.1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  background: #8b6b3f;
+  color: #fff !important;
+  border: 0;
+}
+
+.hero__button:hover,
+.hero__button:focus {
+  text-decoration: none;
+  opacity: 0.92;
+  color: #fff !important;
+}
+
+.post__content img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 1rem 0 1.5rem;
+}
+
+.post__content h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+.post__content p {
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    min-height: 320px;
+  }
+
+  .hero img {
+    height: 320px;
+  }
+
+  .hero__overlay {
+    padding: 1.25rem 1rem;
+  }
+
+  .hero__overlay h1 {
+    font-size: 1.5rem;
+  }
+
+  .hero__buttons {
+    flex-direction: column;
+  }
+
+  .hero__button {
+    text-align: center;
+  }
+}
+
+.header {
+  display: none;
+}
+
+.container {
+  margin-top: 0;
+  padding-top: 0;
+}
+.logo {
+  display: none !important;
+}
+
+.header__title {
+  display: none !important;
+}
+
+.header__description {
+  display: none !important;
+}
+
+.header__container {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+/* Logo (Titel + Beschreibung) ausblenden */
+.logo {
+  display: none !important;
+}
+
+/* Header enger machen */
+.header__container {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.footer {
+  background: #f6f3ed;          /* sehr helles, warmes Grau */
+  border-top: 1px solid #e5e2dc; /* feine Trennlinie */
+}
+
+.footer a {
+  text-decoration: none;
+  color: #444;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
