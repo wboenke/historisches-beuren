@@ -11,31 +11,31 @@ theme = "mainroad"
   [[menu.main]]
     identifier = "start"
     name = "Start"
-    url = "/"
+    url = "/historisches-beuren/"
     weight = 1
 
   [[menu.main]]
     identifier = "verein"
     name = "Verein"
-    url = "/verein/"
+    url = "/historisches-beuren/verein/"
     weight = 2
 
  [[menu.main]]
     identifier = "projekt"
     name = "Projekt"
-    url = "/projekt/"
+    url = "/historisches-beuren/projekt/"
     weight = 3
 
   [[menu.main]]
     identifier = "veranstaltungen"
     name = "Termine"
-    url = "/veranstaltungen/"
+    url = "/historisches-beuren/veranstaltungen/"
     weight = 4
 
    [[menu.main]]
     identifier = "mitmachen"
     name = "Mitmachen"
-    url = "/mitmachen/"
+    url = "/historisches-beuren/mitmachen/"
     weight = 5
 
 [markup]
