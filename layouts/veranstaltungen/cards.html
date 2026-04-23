@@ -14,9 +14,8 @@
   {{ range .RegularPages.ByDate }}
     <article class="post" style="margin-bottom:1.5rem; padding:1.2rem 1.2rem 1rem; border:1px solid #e3ddd2; border-radius:12px; background:#faf8f4;">
       <div style="font-size:0.95rem; color:#7a6f5f; margin-bottom:0.4rem;">
-	{{ .Date.Format "02.01.2006" }}
-	{{ if not .Params.allday }} · {{ .Date.Format "15:04" }} Uhr{{ end }}
-	{{ with .Params.location }} · {{ . }}{{ end }}      </div>
+        {{ .Date.Format "02.01.2006" }} · {{ .Date.Format "15:04" }} Uhr{{ with .Params.location }} · {{ . }}{{ end }}
+      </div>
 
       <h2 style="margin:0 0 0.5rem 0; font-size:1.35rem;">
         <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">{{ .Title }}</a>
