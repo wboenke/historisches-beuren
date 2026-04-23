@@ -1,30 +1,7 @@
-\---
+﻿---
+title: "Veranstaltungen"
+description: "Aktuelle Termine und Rückblicke"
+layout: "cards"
+---
 
-title: "Verein"
-
-description: "Über unseren Verein"
-
-\---
-
-
-
-\# Verein
-
-
-
-Historisches Beuren ist ein Verein zur Erforschung, Bewahrung und Vermittlung der Ortsgeschichte.
-
-
-
-\## Unsere Ziele
-
-
-
-\- Geschichte bewahren
-
-\- Wissen sichtbar machen
-
-\- Menschen zusammenbringen
-
-\- Interesse an Beuren fördern
-
+Hier finden Sie aktuelle Termine des Vereins Historischen Beuren sowie Hinweise auf besondere Veranstaltungen und Projekte.

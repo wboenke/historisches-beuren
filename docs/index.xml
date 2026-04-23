@@ -6,6 +6,21 @@
     <description>Recent content in VHB – Verein Historisches Beuren on Historisches Beuren</description>
     <generator>Hugo</generator>
     <language>de-de</language>
+    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://wboenke.github.io/historisches-beuren/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BatCamp: FledermausCamp praktischer Teil</title>
+      <link>https://wboenke.github.io/historisches-beuren/veranstaltungen/2026-05-23-batcamp/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0200</pubDate>
+      <guid>https://wboenke.github.io/historisches-beuren/veranstaltungen/2026-05-23-batcamp/</guid>
+      <description>Beim dritten FledermausCamp auf der Schwäbischen Alb kommen Fledermausfans voll auf ihre Kosten!</description>
+    </item>
+    <item>
+      <title>Auftaktveranstaltung: Der Trafoturm Beuren</title>
+      <link>https://wboenke.github.io/historisches-beuren/veranstaltungen/2026-05-08-auftakt-trafoturm/</link>
+      <pubDate>Fri, 08 May 2026 18:00:00 +0200</pubDate>
+      <guid>https://wboenke.github.io/historisches-beuren/veranstaltungen/2026-05-08-auftakt-trafoturm/</guid>
+      <description>Bekanntgabe der Förderzusage des Ministeriums, kurze Vorstellung des Projekts und Grußworte des Bürgermeisters.</description>
+    </item>
   </channel>
 </rss>
