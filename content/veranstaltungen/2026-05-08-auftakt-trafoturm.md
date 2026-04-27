@@ -24,6 +24,6 @@ Im Rahmen der Veranstaltung erfolgen:
 
 ---
 
-Hier erfahren Sie mehr über das Projekt:  <a href="/historisches-beuren/pdf/260415-projekt-steckbrief.pdf" target="_blank" rel="noopener">
+Hier erfahren Sie mehr über das Projekt:  <a href="{{ "pdf/260415-projekt-steckbrief.pdf" | relURL }}" target="_blank"> rel="noopener">
   → Projekt-Steckbrief als PDF
 </a>
