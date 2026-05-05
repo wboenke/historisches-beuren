@@ -1,4 +1,4 @@
-baseURL = "https://www.vhb-beuren.de/historisches-beuren/"
+baseURL = "https://www.vhb-beuren.de/"
 languageCode = "de-de"
 title = "Historisches Beuren"
 theme = "mainroad"
@@ -42,3 +42,6 @@ theme = "mainroad"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+relativeURLs = true
+canonifyURLs = true
